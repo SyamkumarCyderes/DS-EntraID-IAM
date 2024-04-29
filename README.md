@@ -1,1 +1,1 @@
-Just ream me. Details will be added soon. 
+Just read me. Details will be added soon. 
