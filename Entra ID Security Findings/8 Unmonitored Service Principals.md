@@ -1,4 +1,5 @@
 Access reports using Microsoft Graph Explorer
+=============================================
 
 With all the prerequisites configured, you can run activity log queries in Microsoft Graph. For more information on Microsoft Graph queries for activity logs, see Activity reports API overview.
 
